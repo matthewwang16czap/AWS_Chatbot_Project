@@ -13,3 +13,7 @@ class at Columbia University and New York University.
 3. Open `chat.html` in any browser.
 4. Start sending messages to test the chatbot interaction.
 
+## My Modification##
+
+Enable CORS for API Gateway. <br />
+Bot will response all messages with "Application under development. Search functionality will be implemented in Assignment 2"
